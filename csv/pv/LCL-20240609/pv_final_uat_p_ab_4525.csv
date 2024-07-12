@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"VÎRCIU MARIN-PARTIDUL NAȚIONAL LIBERAL-voturi","NICOARĂ CĂLIN-IOAN-PARTIDUL SOCIAL DEMOCRAT-voturi"
+1,ALBA,"ŞCOALA GIMNAZIALĂ ”EMIL RACOVIŢĂ” GÎRDA DE SUS",263,"GÂRDA DE SUS",4525,1,PART,PRCNCT,P,P_SV,"2024-06-10 05:49:41",751,739,0,5,7,527,515,0,5,7,515,12,813,286,232,283
+1,ALBA,"ŞCOALA GIMNAZIALĂ GHEŢARI",265,"GÂRDA DE SUS",4525,1,PART,PRCNCT,P,P_SV,"2024-06-10 03:44:06",389,377,0,5,7,310,298,0,5,7,309,1,415,105,179,130
+1,ALBA,"ŞCOALA PRIMARĂ BIHARIA",264,"GÂRDA DE SUS",4525,2,PART,PRCNCT,P,P_SV,"2024-06-10 02:55:48",108,103,0,5,0,64,59,0,5,0,64,0,115,51,28,36

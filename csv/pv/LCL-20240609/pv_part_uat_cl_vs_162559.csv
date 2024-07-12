@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"PARTIDUL SOCIAL DEMOCRAT-voturi","PARTIDUL NAȚIONAL LIBERAL-voturi","ALIANȚA PENTRU UNIREA ROMÂNILOR-voturi"
+39,VASLUI,"CĂMINUL CULTURAL BLĂGEŞTI",214,BLĂGEŞTI,162559,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 06:06:38",753,744,0,3,6,389,380,0,3,6,370,19,800,411,258,41,71
+39,VASLUI,"ŞCOALA PRIMARA IGEŞTI",215,BLĂGEŞTI,162559,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 03:15:28",180,174,0,6,0,98,92,0,6,0,97,1,200,102,77,2,18
+39,VASLUI,"ŞCOALA PRIMARA SIPENI",216,BLĂGEŞTI,162559,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 01:13:47",70,54,0,16,0,45,29,0,16,0,41,4,81,36,13,2,26

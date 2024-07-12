@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"ALIANȚA PENTRU UNIREA ROMÂNILOR-voturi","PARTIDUL SOCIAL DEMOCRAT-voturi","PARTIDUL NAȚIONAL LIBERAL-voturi","FORȚA DREPTEI-voturi"
+30,OLT,"PRIMĂRIE,STR.PRIMĂRIEI,NR.8",167,CUNGREA,126503,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 08:31:40",717,644,2,55,16,496,424,1,55,16,487,9,770,274,47,369,60,11
+30,OLT,"ŞCOALA GIMNAZIALĂ CEPEŞTI",168,CUNGREA,126503,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 08:34:18",609,582,1,22,4,468,441,1,22,4,458,10,738,270,32,292,69,65
+30,OLT,"ŞCOALA GIMNAZIALĂ SPĂTARU",169,CUNGREA,126503,1,PROV,PRCNCT,CL,CL_SV,"2024-06-10 02:53:48",243,204,0,37,2,190,151,0,37,2,188,2,227,37,29,94,57,8

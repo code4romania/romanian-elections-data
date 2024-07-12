@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"PARTIDUL NAȚIONAL LIBERAL-voturi","ALIANȚA PENTRU UNIREA ROMÂNILOR-voturi","PARTIDUL SOCIAL DEMOCRAT-voturi","FORȚA DREPTEI-voturi"
+30,OLT,"ŞCOALA GENERALĂ I-IV SATU NOU",217,GRĂDINARI,127171,1,PROV,PRCNCT,CL,CL_SV,"2024-06-10 06:04:25",274,224,0,42,8,259,209,0,42,8,205,4,240,31,123,16,66,0
+30,OLT,"ŞCOALA GIMNAZIALĂ GRĂDINARI",215,GRĂDINARI,127171,1,PROV,PRCNCT,CL,CL_SV,"2024-06-10 05:54:21",629,555,0,50,24,629,555,0,50,24,612,17,833,204,290,61,259,2
+30,OLT,"ŞCOALA PRIMARĂ PETCULEŞTI",216,GRĂDINARI,127171,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 04:52:48",953,921,0,26,6,632,600,0,26,6,623,9,1010,378,67,518,37,1

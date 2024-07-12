@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"POP SIMION-PARTIDUL NAȚIONAL LIBERAL-voturi","BÂRSAN ILEANA-voturi"
+26,MARAMUREŞ,"CĂMINUL CULTURAL",265,BUDEŞTI,107519,1,PART,PRCNCT,P,P_SV,"2024-06-10 05:03:46",628,623,1,0,4,398,393,1,0,4,391,7,700,302,303,88
+26,MARAMUREŞ,"SEDIUL GRĂDINIȚEI",264,BUDEŞTI,107519,1,PART,PRCNCT,P,P_SV,"2024-06-10 03:29:50",633,617,0,4,12,441,425,0,4,12,434,7,700,259,384,50
+26,MARAMUREŞ,"SEDIUL PRIMĂRIEI",263,BUDEŞTI,107519,1,PART,PRCNCT,P,P_SV,"2024-06-10 06:42:27",1109,1090,2,0,17,718,700,1,0,17,704,14,1213,495,579,125

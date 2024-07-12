@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"PARTIDUL SOCIAL DEMOCRAT-voturi","PARTIDUL NAȚIONAL LIBERAL-voturi","ALIANȚA DREAPTA UNITĂ USR - PMP - FORȚA DREPTEI-voturi","PARTIDUL S.O.S. ROMÂNIA-voturi"
+16,DÂMBOVIŢA,"ȘCOALA GIMNAZIALĂ RACIU",353,RACIU,179891,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 05:16:50",1250,1238,2,7,3,718,708,0,7,3,702,16,1366,648,353,221,88,40
+16,DÂMBOVIŢA,"ȘCOALA GIMNAZIALĂ ȘUȚA SEACĂ - RACIU",355,RACIU,179891,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 06:09:08",705,700,0,1,4,414,409,0,1,4,396,18,770,356,257,38,80,21
+16,DÂMBOVIŢA,"ȘCOALA PRIMARĂ SILIȘTEA - RACIU",354,RACIU,179891,2,PART,PRCNCT,CL,CL_SV,"2024-06-13 14:01:19",718,704,0,6,8,434,420,0,6,8,421,13,790,356,269,64,65,23

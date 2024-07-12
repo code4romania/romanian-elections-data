@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"PARTIDUL NAȚIONAL LIBERAL-voturi","ALIANȚA PENTRU UNIREA ROMÂNILOR-voturi","PARTIDUL SOCIAL DEMOCRAT-voturi"
+30,OLT,"CĂMINUL CULTURAL",180,DEVESELU,126647,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 07:08:12",1001,923,1,15,62,734,657,0,15,62,714,20,1084,350,215,95,404
+30,OLT,"CĂMINUL CULTURAL",178,DEVESELU,126647,1,PROV,PRCNCT,CL,CL_SV,"2024-06-10 08:05:57",1495,1354,0,70,71,994,853,0,70,71,894,32,1490,515,374,110,410
+30,OLT,"CASA ARMATEI",179,DEVESELU,126647,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 04:08:30",232,205,0,23,4,135,108,0,23,4,131,4,232,97,36,11,84

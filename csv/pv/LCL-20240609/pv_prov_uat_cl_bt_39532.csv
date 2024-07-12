@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"PARTIDUL NAȚIONAL LIBERAL-voturi","PARTIDUL SOCIAL DEMOCRAT-voturi","ALIANȚA PENTRU UNIREA ROMÂNILOR-voturi"
+7,BOTOŞANI,"GRĂDINIȚA CU PROGRAM NORMAL NR. 1 BURLEȘTI",400,UNŢENI,39532,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 01:11:38",502,492,0,6,4,286,276,0,6,4,280,6,580,294,82,172,26
+7,BOTOŞANI,"ŞCOALA GIMNAZIALĂ NR.1 UNŢENI",399,UNŢENI,39532,1,PROV,PRCNCT,CL,CL_SV,"2024-06-10 05:30:18",951,922,1,6,22,490,462,0,6,22,458,32,1000,510,126,287,45
+7,BOTOŞANI,"ŞCOALA PRIMARĂ NR.2 MÂNĂSTIRENI",401,UNŢENI,39532,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 01:44:54",620,609,0,8,3,280,269,0,8,3,267,13,686,406,28,172,67

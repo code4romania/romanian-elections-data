@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"PARTIDUL SOCIAL DEMOCRAT-voturi","UNIUNEA SALVAȚI ROMÂNIA-voturi","PARTIDUL NAȚIONAL LIBERAL-voturi","PARTIDUL MIȘCAREA POPULARĂ-voturi"
+24,IAŞI,"CLĂDIRE SOCIALĂ BĂRBĂTEȘTI",421,CUCUTENI,96664,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 01:02:58",146,138,0,6,2,93,85,0,6,2,90,3,188,95,69,4,15,2
+24,IAŞI,"GRĂDINIŢA CUCUTENI",420,CUCUTENI,96664,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 03:34:35",738,721,1,4,12,398,381,1,4,12,389,9,800,402,216,34,113,26
+24,IAŞI,"ŞCOALA SĂCĂREŞTI",422,CUCUTENI,96664,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 02:10:14",242,210,0,25,7,165,133,0,25,7,159,6,200,35,140,0,18,1

@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"ŞERBAN MARIAN-PARTIDUL SOCIAL DEMOCRAT-voturi","STANCU VICTOR-PARTIDUL NAȚIONAL LIBERAL-voturi"
+16,DÂMBOVIŢA,"ȘCOALA NR.1 POIANA",340,POIANA,68431,2,PART,PRCNCT,P,P_SV,"2024-06-10 08:19:49",1026,1026,0,0,0,677,677,0,0,0,648,29,1120,443,580,68
+16,DÂMBOVIŢA,"ȘCOALA NR.1 POIANA, SAT POIANA",339,POIANA,68431,2,PART,PRCNCT,P,P_SV,"2024-06-10 05:39:47",880,880,0,0,0,560,560,0,0,0,539,21,970,410,500,39
+16,DÂMBOVIŢA,"ȘCOALA NR.2 POIANA",341,POIANA,68431,1,PART,PRCNCT,P,P_SV,"2024-06-10 03:33:03",846,839,0,7,0,483,476,0,7,0,469,14,920,437,444,25

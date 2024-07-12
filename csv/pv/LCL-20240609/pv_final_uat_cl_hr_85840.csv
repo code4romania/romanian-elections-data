@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"UNIUNEA DEMOCRATĂ MAGHIARĂ DIN ROMÂNIA-voturi","ASOCIAȚIA PARTIDA ROMILOR ""PRO-EUROPA""-voturi","FÁBIÁN ZOLTÁN-voturi"
+21,HARGHITA,"CĂMINUL CULTURAL",245,SÂNSIMION,85840,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 04:43:56",1205,1167,4,3,31,741,707,0,3,31,717,24,1300,559,655,25,37
+21,HARGHITA,"CĂMINUL CULTURAL",244,SÂNSIMION,85840,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 03:33:48",741,721,0,5,15,426,406,0,5,15,412,14,800,374,368,7,37
+21,HARGHITA,"ȘCOALA PRIMARĂ ”BENEDEK ELEK”",246,SÂNSIMION,85840,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 01:40:34",902,867,0,14,21,580,545,0,14,21,549,31,970,390,521,6,22

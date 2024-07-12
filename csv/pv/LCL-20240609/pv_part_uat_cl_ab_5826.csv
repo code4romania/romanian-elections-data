@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"PARTIDUL SOCIAL DEMOCRAT-voturi","ALIANȚA PENTRU UNIREA ROMÂNILOR-voturi","PARTIDUL NAȚIONAL LIBERAL-voturi"
+1,ALBA,"CENTRUL DE INFORMARE TURISTICĂ",324,MOGOŞ,5826,2,PART,PRCNCT,CL,CL_SV,"2024-06-10 06:23:29",489,451,1,24,13,313,276,0,24,13,296,17,522,209,95,41,160
+1,ALBA,"REFUGIU TURISTIC VALEA BARNII",326,MOGOŞ,5826,3,PART,PRCNCT,CL,CL_SV,"2024-06-10 08:00:11",121,106,0,11,4,82,67,0,11,4,79,3,124,42,39,10,30
+1,ALBA,"ŞCOALA CU CLASELE I-IV, SAT BUTEŞTI",325,MOGOŞ,5826,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 00:11:22",46,40,0,5,1,34,28,0,5,1,32,2,45,11,8,13,11

@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"PARTIDUL NAȚIONAL LIBERAL-voturi","PARTIDUL SOCIAL DEMOCRAT-voturi"
+40,VÂLCEA,"LICEUL TEORETIC",287,MĂCIUCA,171101,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 06:08:45",732,640,1,56,35,528,437,0,56,35,504,24,738,210,363,141
+40,VÂLCEA,"ȘCOALA CU CLASELE I-IV ZĂVOIENI",289,MĂCIUCA,171101,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 02:15:28",253,234,0,8,11,185,166,0,8,11,178,7,274,89,129,49
+40,VÂLCEA,"ŞCOALA GENERALĂ POPEŞTI, COMUNA MĂCIUCA, SATUL POPEŞTI",288,MĂCIUCA,171101,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 02:14:09",351,334,0,12,5,231,214,0,12,5,225,6,400,169,109,116

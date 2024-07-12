@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"ANDRIESCU MIHAI-PARTIDUL NAȚIONAL LIBERAL-voturi","BODIS VASILE-UNIUNEA DEMOCRATĂ MAGHIARĂ DIN ROMÂNIA-voturi"
+13,CLUJ,"CĂMINUL CULTURAL",512,"IZVORU CRIŞULUI",58204,1,PART,PRCNCT,P,P_SV,"2024-06-10 00:38:14",186,175,0,10,1,102,91,0,10,1,99,3,193,91,30,69
+13,CLUJ,"PRIMĂRIA COMUNEI",511,"IZVORU CRIŞULUI",58204,1,PART,PRCNCT,P,P_SV,"2024-06-10 07:47:40",745,715,1,7,22,460,431,0,7,22,426,34,813,353,19,407
+13,CLUJ,"ŞCOALA GENERALĂ",513,"IZVORU CRIŞULUI",58204,1,PART,PRCNCT,P,P_SV,"2024-06-10 03:20:25",314,302,0,8,4,242,230,0,8,4,234,6,338,98,21,213

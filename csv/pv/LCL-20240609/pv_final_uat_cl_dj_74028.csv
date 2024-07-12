@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"UNIUNEA SALVAȚI ROMÂNIA-voturi","PARTIDUL NAȚIONAL LIBERAL-voturi","ALIANȚA PENTRU UNIREA ROMÂNILOR-voturi","PARTIDUL SOCIAL DEMOCRAT-voturi"
+17,DOLJ,"CĂMINUL CULTURAL MÂRZA",478,SĂLCUŢA,74028,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 02:10:47",440,431,0,9,0,165,156,0,9,0,152,13,500,335,17,13,5,117
+17,DOLJ,"ŞCOALA VECHE SĂLCUŢA",477,SĂLCUŢA,74028,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 05:55:39",875,772,0,67,36,434,331,0,67,36,392,42,837,403,25,121,20,226
+17,DOLJ,"ŞCOALA VECHE TENCĂNĂU",479,SĂLCUŢA,74028,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 01:14:02",295,237,1,52,5,211,153,1,52,5,196,15,300,89,2,67,5,122

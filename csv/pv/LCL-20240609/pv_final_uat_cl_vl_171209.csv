@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"ALIANȚA PENTRU UNIREA ROMÂNILOR-voturi","PARTIDUL NAȚIONAL LIBERAL-voturi","PARTIDUL SOCIAL DEMOCRAT-voturi"
+40,VÂLCEA,"ŞCOALA CU CLASELE I-IV BĂLŞOARA",291,MĂDULARI,171209,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 02:23:51",233,203,0,19,11,167,137,0,19,11,159,8,220,53,22,34,103
+40,VÂLCEA,"ȘCOALA CU CLASELE. I-IV BĂNȚEȘTI",292,MĂDULARI,171209,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 01:23:58",258,237,0,11,10,169,148,0,11,10,155,14,262,93,11,16,128
+40,VÂLCEA,"ȘCOALA CU CLASELE . I-VIII MĂDULARI",290,MĂDULARI,171209,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 03:41:08",625,559,1,29,36,438,374,0,29,35,406,32,620,182,29,51,326

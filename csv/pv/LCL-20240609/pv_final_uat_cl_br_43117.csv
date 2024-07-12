@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"PARTIDUL SOCIAL DEMOCRAT-voturi","PARTIDUL NAȚIONAL LIBERAL-voturi","ALIANȚA PENTRU UNIREA ROMÂNILOR-voturi"
+9,BRĂILA,"ȘCOALA CU CLASELE I-IV TITCOV",187,FRECĂŢEI,43117,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 01:56:35",385,376,0,3,6,273,264,0,3,6,269,4,468,195,71,188,10
+9,BRĂILA,"ȘCOALA CU CLASELE I-VIII FRECĂȚEI",185,FRECĂŢEI,43117,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 02:04:34",293,286,2,3,2,213,208,0,3,2,206,7,347,134,44,145,17
+9,BRĂILA,"ȘCOALA PRIMARĂ AGAUA",186,FRECĂŢEI,43117,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 04:06:44",406,393,0,6,7,290,277,0,6,7,270,20,497,207,61,183,26

@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"BRANC CRISTIAN-PARTIDUL NAȚIONAL LIBERAL-voturi","MOTORCA IOAN-ALIN-PARTIDUL SOCIAL DEMOCRAT-voturi"
+2,ARAD,"CĂMINUL CULTURAL MORODA",355,SELEUŞ,11995,1,PART,PRCNCT,P,P_SV,"2024-06-10 04:12:39",577,547,1,7,22,336,309,0,7,20,328,8,626,290,237,91
+2,ARAD,"PRIMĂRIA COMUNEI SELEUŞ",353,SELEUŞ,11995,1,PROV,PRCNCT,P,P_SV,"2024-06-10 14:27:11",1476,1411,1,9,55,1119,1056,0,9,54,1095,24,1620,501,903,192
+2,ARAD,"ŞCOALA PRIMARĂ IERMATA",354,SELEUŞ,11995,1,PART,PRCNCT,P,P_SV,"2024-06-10 03:58:50",332,318,0,7,7,231,217,0,7,7,224,7,350,119,144,80

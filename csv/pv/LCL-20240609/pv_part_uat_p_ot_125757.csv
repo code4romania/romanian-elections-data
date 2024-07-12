@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"ROŞIANU IONUŢ-ALEXANDRU-PARTIDUL SOCIAL DEMOCRAT-voturi","BOERU MARIUS-PARTIDUL NAȚIONAL LIBERAL-voturi","PREDEL AUGUSTIN-FORȚA DREPTEI-voturi"
+30,OLT,"ŞCOALA GENERALĂ CLASELE I-IV.",128,BĂRĂŞTI,125757,1,PART,PRCNCT,P,P_SV,"2024-06-10 10:56:41",442,326,1,97,18,382,266,1,97,18,374,8,500,118,192,154,28
+30,OLT,"ŞCOALA GENERALĂ CLASELE I-VIII",129,BĂRĂŞTI,125757,2,PART,PRCNCT,P,P_SV,"2024-06-10 12:46:56",980,618,0,343,19,822,460,0,343,19,822,0,892,70,542,250,30
+30,OLT,"SEDIU FOSTĂ BRIGADĂ AGRICOLĂ",130,BĂRĂŞTI,125757,2,PART,PRCNCT,P,P_SV,"2024-06-10 06:40:48",80,48,0,29,3,69,37,0,29,3,67,2,83,14,36,29,2

@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"PARTIDUL NAȚIONAL LIBERAL-voturi","PARTIDUL SOCIAL DEMOCRAT-voturi","ALIANȚA PENTRU UNIREA ROMÂNILOR-voturi","VUŞCAN IOAN-CRISTIAN-voturi"
+5,BIHOR,"CĂMINUL CULTURAL",655,VÂRCIOROG,32090,1,PROV,PRCNCT,CL,CL_SV,"2024-06-10 04:08:34",803,784,0,19,0,596,577,0,19,0,576,20,880,283,372,90,31,83
+5,BIHOR,"CĂMINUL CULTURAL FÂȘCA",656,VÂRCIOROG,32090,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 01:30:25",358,332,0,26,0,284,258,0,26,0,280,4,372,88,223,10,27,20
+5,BIHOR,"ȘCOALA GIMNAZIALĂ NR.2",657,VÂRCIOROG,32090,1,PROV,PRCNCT,CL,CL_SV,"2024-06-10 03:51:06",451,425,0,26,0,312,286,0,26,0,306,3,461,152,269,19,13,5

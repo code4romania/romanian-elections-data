@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"BURUIANĂ TUDOREL-PARTIDUL NAȚIONAL LIBERAL-voturi","FILOTE ADRIAN-PARTIDUL SOCIAL DEMOCRAT-voturi"
+18,GALAŢI,"CĂMINUL CULTURAL FÂRȚĂNEȘTI",296,FÂRŢĂNEŞTI,76255,1,PART,PRCNCT,P,P_SV,"2024-06-10 04:08:13",1354,1348,1,2,3,571,566,0,2,3,560,11,1483,912,19,541
+18,GALAŢI,"CĂMINUL CULTURAL FÂRȚĂNEȘTI",297,FÂRŢĂNEŞTI,76255,1,PROV,PRCNCT,P,P_SV,"2024-06-10 04:44:08",1445,1440,0,3,2,659,654,0,3,2,634,17,1591,940,30,604
+18,GALAŢI,"CĂMINUL CULTURAL VIILE",298,FÂRŢĂNEŞTI,76255,1,PART,PRCNCT,P,P_SV,"2024-06-10 04:48:22",1211,1208,0,3,0,568,565,0,3,0,552,16,1325,757,12,540

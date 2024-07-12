@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"PARTIDUL SOCIAL DEMOCRAT-voturi","PARTIDUL NAȚIONAL LIBERAL-voturi","UNIUNEA SALVAȚI ROMÂNIA-voturi"
+5,BIHOR,"CĂMIN CULTURAL",533,SĂCĂDAT,30871,3,PART,PRCNCT,CL,CL_SV,"2024-06-10 09:27:19",620,584,2,30,4,409,375,0,30,4,391,13,645,241,179,205,7
+5,BIHOR,"FOSTA ȘCOALĂ CU CLS.I-IV",532,SĂCĂDAT,30871,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 03:22:36",168,139,0,28,1,108,79,0,28,1,106,2,153,45,46,59,1
+5,BIHOR,"GRĂDINIȚA CU PROGRAM NORMAL SĂCĂDAT",531,SĂCĂDAT,30871,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 09:12:24",878,758,2,112,6,640,522,0,112,6,630,10,829,189,355,252,23

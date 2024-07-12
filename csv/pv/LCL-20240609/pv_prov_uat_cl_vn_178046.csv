@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"PARTIDUL NAȚIONAL LIBERAL-voturi","PARTIDUL SOCIAL DEMOCRAT-voturi"
+41,VRANCEA,PRIMARIE,306,TÂMBOEŞTI,178046,1,PROV,PRCNCT,CL,CL_SV,"2024-06-10 03:47:01",1205,1114,1,35,55,664,574,0,35,55,621,43,1283,619,572,49
+41,VRANCEA,"SCOALA SLIMNIC",307,TÂMBOEŞTI,178046,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 03:59:34",1038,936,1,38,63,1037,936,0,38,63,613,32,1111,466,502,111
+41,VRANCEA,"SCOALA TRESTIENI",308,TÂMBOEŞTI,178046,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 01:05:11",153,120,0,21,12,108,75,0,21,12,105,3,146,38,99,6

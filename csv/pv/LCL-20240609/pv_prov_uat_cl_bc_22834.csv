@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"PARTIDUL NAȚIONAL LIBERAL-voturi","PARTIDUL SOCIAL DEMOCRAT-voturi","ALIANȚA PENTRU UNIREA ROMÂNILOR-voturi","ALIANȚA DREAPTA UNITĂ USR - PMP - FORȚA DREPTEI-voturi"
+4,BACĂU,"CĂMINUL CULTURAL FRUMUŞELU",370,GLĂVĂNEŞTI,22834,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 04:56:15",960,945,1,12,2,593,579,0,12,2,576,17,1000,407,295,233,16,32
+4,BACĂU,"CĂMINUL CULTURAL GLĂVĂNEŞTI",369,GLĂVĂNEŞTI,22834,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 04:26:19",1324,1324,0,0,0,738,738,0,0,0,710,28,1500,762,218,408,59,25
+4,BACĂU,"SCOALA MUNCELU",371,GLĂVĂNEŞTI,22834,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 02:35:39",201,192,0,9,0,133,124,0,9,0,126,7,200,67,69,55,1,1

@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"PARTIDUL SOCIAL DEMOCRAT-voturi","PARTIDUL NAȚIONAL LIBERAL-voturi"
+1,ALBA,"PRIMARIA COMUNEI BLANDIANA",209,BLANDIANA,3397,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 03:00:37",444,405,1,9,29,324,286,0,9,29,322,2,479,155,166,156
+1,ALBA,"ŞCOALA CU CLASELE I-IV RĂCĂTĂU",211,BLANDIANA,3397,2,PART,PRCNCT,CL,CL_SV,"2024-06-10 09:55:19",33,26,0,5,2,31,24,0,5,2,31,0,37,6,4,27
+1,ALBA,"ŞCOALA PRIMARĂ ACMARIU",210,BLANDIANA,3397,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 01:39:12",293,247,0,18,28,241,195,0,18,28,232,9,300,59,23,209

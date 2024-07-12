@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"ALIANȚA PENTRU UNIREA ROMÂNILOR-voturi","PARTIDUL SOCIAL DEMOCRAT-voturi","PARTIDUL NAȚIONAL LIBERAL-voturi"
+38,TULCEA,"ŞCOALA GIMNAZIALĂ",132,IZVOARELE,160564,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 10:54:35",1295,1132,1,113,49,912,751,1,112,48,871,41,1309,397,24,399,448
+38,TULCEA,"ŞCOALA PRIMARĂ",133,IZVOARELE,160564,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 03:49:18",138,117,0,13,8,138,117,0,13,8,136,2,202,64,14,69,53
+38,TULCEA,"ŞCOALA PRIMARĂ",134,IZVOARELE,160564,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 03:32:34",249,244,0,0,5,167,162,0,0,5,157,10,262,95,13,83,61

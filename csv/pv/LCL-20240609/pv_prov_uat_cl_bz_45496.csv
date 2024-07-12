@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"PARTIDUL SOCIAL DEMOCRAT-voturi","PARTIDUL NAȚIONAL LIBERAL-voturi","NICOLAIE COSTEL-voturi"
+10,BUZĂU,"GRĂDINIȚA CU PROGRAM NORMAL MITROPOLIA",166,BRĂDEANU,45496,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 01:50:14",320,317,0,3,0,215,212,0,3,0,208,7,349,134,98,99,11
+10,BUZĂU,"ȘCOALA GIMNAZIALĂ COMUNA BRĂDEANU",165,BRĂDEANU,45496,1,PROV,PRCNCT,CL,CL_SV,"2024-06-10 06:08:21",876,861,0,2,13,573,558,0,2,13,558,14,950,378,300,212,46
+10,BUZĂU,"ȘCOALA PRIMARĂ SMÂRDAN",167,BRĂDEANU,45496,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 08:17:19",663,650,0,3,10,426,413,0,3,10,411,15,720,294,203,197,11

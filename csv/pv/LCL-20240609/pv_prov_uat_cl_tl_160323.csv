@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"PARTIDUL NAȚIONAL LIBERAL-voturi","ALIANȚA PENTRU UNIREA ROMÂNILOR-voturi","PARTIDUL SOCIAL DEMOCRAT-voturi","PARTIDUL MIȘCAREA POPULARĂ-voturi"
+38,TULCEA,"CĂMIN CULTURAL",115,DOROBANŢU,160323,1,PROV,PRCNCT,CL,CL_SV,"2024-06-10 03:00:10",341,325,0,9,7,162,146,0,9,7,153,9,361,199,6,63,77,7
+38,TULCEA,"SCOALA GIMNAZIALA DOROBANTU",114,DOROBANŢU,160323,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 01:58:09",664,616,0,12,36,361,313,0,12,36,355,6,679,318,17,61,223,54
+38,TULCEA,"ȘCOALA MEȘTERU",116,DOROBANŢU,160323,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 02:43:08",66,58,0,5,3,66,58,0,5,3,63,3,100,34,0,20,40,3

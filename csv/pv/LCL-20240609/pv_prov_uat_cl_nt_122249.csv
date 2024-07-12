@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"PARTIDUL SOCIAL DEMOCRAT-voturi","PARTIDUL NAȚIONAL LIBERAL-voturi","ALIANȚA PENTRU UNIREA ROMÂNILOR-voturi"
+29,NEAMŢ,"CAMINUL CULTURAL DAMUC",242,DĂMUC,122249,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 07:10:07",1261,1245,0,8,8,756,740,0,8,8,727,29,1300,544,179,312,236
+29,NEAMŢ,"SCOALA GENERALA",244,DĂMUC,122249,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 05:44:14",630,618,0,9,3,371,359,0,9,3,358,11,700,331,58,127,173
+29,NEAMŢ,"ŞCOALA GENERALĂ",243,DĂMUC,122249,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 09:27:47",507,495,0,6,6,331,319,0,6,6,318,13,540,209,49,121,148

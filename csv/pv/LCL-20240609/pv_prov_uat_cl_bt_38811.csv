@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"ALIANȚA PENTRU UNIREA ROMÂNILOR-voturi","PARTIDUL SOCIAL DEMOCRAT-voturi","PARTIDUL NAȚIONAL LIBERAL-voturi","ALIANȚA DREAPTA UNITĂ USR - PMP - FORȚA DREPTEI-voturi"
+7,BOTOŞANI,"CĂMIN CULTURAL COTÂRGACI",356,ROMA,38811,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 02:42:31",682,673,1,6,2,208,200,0,6,2,203,5,702,494,15,113,66,9
+7,BOTOŞANI,"SCOALA NR. 1 ROMA",354,ROMA,38811,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 06:42:39",1446,1435,1,0,10,717,707,0,0,10,681,36,1600,883,33,317,241,90
+7,BOTOŞANI,"SCOALA NR.2 ROMA",355,ROMA,38811,1,PROV,PRCNCT,CL,CL_SV,"2024-06-10 03:29:28",989,970,0,3,16,593,574,0,3,16,548,26,1100,526,37,235,235,41

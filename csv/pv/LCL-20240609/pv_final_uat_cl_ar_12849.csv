@@ -1,0 +1,3 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"UNIUNEA DEMOCRATĂ MAGHIARĂ DIN ROMÂNIA-voturi","PARTIDUL NAȚIONAL LIBERAL-voturi"
+2,ARAD,"PRIMĂRIA COMUNEI ZERIND",435,ZERIND,12849,2,PART,PRCNCT,CL,CL_SV,"2024-06-10 05:31:06",744,734,4,1,5,479,471,2,1,5,465,14,810,331,159,306
+2,ARAD,"ŞCOALA PRIMARA IERMATA NEAGRA",436,ZERIND,12849,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 03:26:57",474,467,3,1,3,282,278,0,1,3,271,11,520,238,109,162

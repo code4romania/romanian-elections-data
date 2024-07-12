@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"PARTIDUL SOCIAL DEMOCRAT-voturi","ALIANȚA PENTRU UNIREA ROMÂNILOR-voturi","PARTIDUL NAȚIONAL LIBERAL-voturi","ALIANȚA DREAPTA UNITĂ USR - PMP - FORȚA DREPTEI-voturi"
+10,BUZĂU,"ŞCOALA GIMNAZIALĂ PĂNĂTĂU",302,PĂNĂTĂU,48227,2,PART,PRCNCT,CL,CL_SV,"2024-06-10 09:21:53",1170,1167,1,1,1,681,678,1,1,1,646,35,1278,597,505,91,31,19
+10,BUZĂU,"ŞCOALA PRIMARĂ BEGU",303,PĂNĂTĂU,48227,3,PART,PRCNCT,CL,CL_SV,"2024-06-10 06:18:00",176,168,1,7,0,111,104,0,7,0,108,3,190,79,92,13,2,1
+10,BUZĂU,"ŞCOALA TEGA",304,PĂNĂTĂU,48227,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 04:10:09",471,463,0,8,0,290,282,0,8,0,281,9,510,220,227,46,2,6

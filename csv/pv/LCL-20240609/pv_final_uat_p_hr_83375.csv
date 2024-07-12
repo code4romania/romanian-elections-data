@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"FERENCZ CSABA-UNIUNEA DEMOCRATĂ MAGHIARĂ DIN ROMÂNIA-voturi","VITALYOS KATI-voturi"
+21,HARGHITA,"CĂMINUL CULTURAL PĂULENI-CIUC",206,PĂULENI-CIUC,83375,1,PART,PRCNCT,P,P_SV,"2024-06-10 03:16:32",565,560,2,2,1,353,349,1,2,1,343,10,600,247,193,150
+21,HARGHITA,"SCOALA PRIMARĂ DELNIŢA",207,PĂULENI-CIUC,83375,1,PART,PRCNCT,P,P_SV,"2024-06-10 02:58:03",639,635,3,1,0,392,390,1,1,0,388,4,700,308,340,48
+21,HARGHITA,"SCOALA PRIMARĂ ŞOIMENI",208,PĂULENI-CIUC,83375,1,PART,PRCNCT,P,P_SV,"2024-06-10 02:18:49",554,547,3,4,0,351,347,0,4,0,345,6,600,249,246,99

@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"UNIUNEA SALVAȚI ROMÂNIA-voturi","PARTIDUL SOCIAL DEMOCRAT-voturi","PARTIDUL NAȚIONAL LIBERAL-voturi","CHIHA MARIN-voturi"
+3,ARGEŞ,"CĂMIN CULTURAL ALBOTA",196,ALBOTA,13935,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 04:44:50",2044,2031,5,8,0,1301,1292,1,8,0,1271,30,2236,935,76,686,395,114
+3,ARGEŞ,"ŞCOALA GIMNAZIALĂ MAREŞ",198,ALBOTA,13935,2,PART,PRCNCT,CL,CL_SV,"2024-06-10 06:33:11",871,866,0,5,0,569,564,0,5,0,557,12,936,367,46,356,146,9
+3,ARGEŞ,"ŞCOALA PRIMARĂ CERBU",197,ALBOTA,13935,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 05:12:59",676,670,0,6,0,450,444,0,6,0,431,19,737,287,18,290,113,10

@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"PARTIDUL NAȚIONAL LIBERAL-voturi","ALIANȚA PENTRU UNIREA ROMÂNILOR-voturi","PARTIDUL SOCIAL DEMOCRAT-voturi","ALIANȚA DREAPTA UNITĂ USR - PMP - FORȚA DREPTEI-voturi"
+23,IALOMIŢA,"CĂMIN CULTURAL, SAT SINTEŞTI",114,BORĂNEŞTI,179784,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 04:26:06",318,311,0,7,0,227,220,0,7,0,222,5,347,120,81,5,71,65
+23,IALOMIŢA,"ŞCOALA GIMNAZIALĂ",113,BORĂNEŞTI,179784,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 06:55:40",574,559,0,7,8,401,386,0,7,8,388,13,620,219,186,31,96,75
+23,IALOMIŢA,"ŞCOALA GIMNAZIALĂ",112,BORĂNEŞTI,179784,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 08:48:41",970,955,0,8,7,655,640,0,8,7,629,26,1060,405,445,63,72,49

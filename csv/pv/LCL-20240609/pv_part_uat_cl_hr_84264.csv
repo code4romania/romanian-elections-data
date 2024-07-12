@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"UNIUNEA DEMOCRATĂ MAGHIARĂ DIN ROMÂNIA-voturi","ALIANȚA MAGHIARĂ DIN TRANSILVANIA - ERDÉLYI MAGYAR SZÖVETSÉG-voturi"
+21,HARGHITA,"CAMIN CULTURAL",132,DEALU,84264,2,PART,PRCNCT,CL,CL_SV,"2024-06-10 04:53:03",1095,1091,1,3,0,700,696,1,3,0,691,9,1200,500,685,6
+21,HARGHITA,"CASĂ COMUNALĂ",133,DEALU,84264,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 01:06:24",592,585,2,5,0,295,290,0,5,0,295,0,700,405,277,18
+21,HARGHITA,"CASA SOCIALĂ",131,DEALU,84264,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 02:14:35",1554,975,0,579,0,975,975,0,0,0,960,15,1600,625,936,24

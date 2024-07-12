@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"PARTIDUL NAȚIONAL LIBERAL-voturi","PARTIDUL SOCIAL DEMOCRAT-voturi","ALIANȚA PENTRU UNIREA ROMÂNILOR-voturi"
+5,BIHOR,"CĂMIN CULTURAL",314,CEFA,28246,1,PROV,PRCNCT,CL,CL_SV,"2024-06-10 01:17:42",702,688,0,4,10,457,443,0,4,10,446,11,770,313,327,101,18
+5,BIHOR,"CENTRUL DE AFACERI",312,CEFA,28246,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 12:55:26",1036,997,0,4,35,645,606,0,4,35,630,15,1096,451,452,142,36
+5,BIHOR,GRĂDINIŢA,313,CEFA,28246,1,PROV,PRCNCT,CL,CL_SV,"2024-06-10 01:05:34",173,161,2,3,7,111,99,2,3,7,105,5,180,70,85,15,5

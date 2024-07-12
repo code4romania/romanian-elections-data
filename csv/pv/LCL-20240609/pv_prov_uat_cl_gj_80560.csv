@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"PARTIDUL SOCIAL DEMOCRAT-voturi","PARTIDUL NAȚIONAL LIBERAL-voturi"
+20,GORJ,"GRĂDINIȚA GURA ȘUȘIȚEI",230,IONEŞTI,80560,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 06:32:17",517,475,0,21,21,375,333,0,21,21,365,10,529,154,235,130
+20,GORJ,"ȘCOALA GIMNAZIALĂ IONEȘTI",229,IONEŞTI,80560,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 06:40:04",961,899,0,39,23,706,644,0,39,23,678,28,1000,294,520,158
+20,GORJ,"ȘCOALA PRIMARĂ ILIEȘTI",231,IONEŞTI,80560,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 08:08:49",452,424,0,9,19,347,319,0,9,19,300,28,500,172,221,79

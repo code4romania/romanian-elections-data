@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"PARTIDUL SOCIAL DEMOCRAT-voturi"
+30,OLT,"SCOALA CU CLASELE I-IV RACOVITA",375,VOINEASA,130062,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 02:42:25",427,416,0,2,9,269,258,0,2,9,254,15,457,188,254
+30,OLT,"SCOALA CU CLASELE I-VIII MARGARITESTI",374,VOINEASA,130062,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 02:17:43",589,569,1,5,14,409,389,1,5,14,392,17,640,231,392
+30,OLT,"SCOALA CU CLASELE I-VIII VOINEASA",373,VOINEASA,130062,1,PROV,PRCNCT,CL,CL_SV,"2024-06-10 02:41:46",704,692,0,6,6,471,459,0,6,6,464,7,760,282,464

@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"PARTIDUL SOCIAL DEMOCRAT-voturi","PARTIDUL NAȚIONAL LIBERAL-voturi","ALIANȚA PENTRU UNIREA ROMÂNILOR-voturi","UNIUNEA SALVAȚI ROMÂNIA-voturi","BEC TRAIAN-IOAN-voturi"
+1,ALBA,"FOSTUL SEDIU AL PRIMĂRIEI PONOREL",433,VIDRA,8425,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 08:41:49",681,664,0,6,11,518,501,0,6,11,507,11,742,224,260,72,43,108,24
+1,ALBA,"PRIMĂRIA COMUNEI VIDRA",431,VIDRA,8425,2,PART,PRCNCT,CL,CL_SV,"2024-06-10 05:26:06",308,295,0,10,3,218,205,0,10,3,213,5,327,109,96,49,17,20,31
+1,ALBA,"ŞCOALA PRIMARĂ GOIEŞTI",432,VIDRA,8425,2,PART,PRCNCT,CL,CL_SV,"2024-06-10 09:07:26",293,276,0,9,8,209,192,0,9,8,201,8,312,103,79,29,28,34,31

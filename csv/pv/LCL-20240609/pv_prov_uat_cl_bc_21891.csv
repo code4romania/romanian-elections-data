@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"ALIANȚA PENTRU UNIREA ROMÂNILOR-voturi","PARTIDUL SOCIAL DEMOCRAT-voturi","PARTIDUL NAȚIONAL LIBERAL-voturi","PARTIDUL ECOLOGIST ROMÂN-voturi"
+4,BACĂU,"ŞCOALA GIMNAZIALĂ COLONEŞTI",309,COLONEŞTI,21891,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 02:59:01",1148,1144,0,4,0,572,568,0,4,0,517,55,1200,628,87,327,57,46
+4,BACĂU,"ŞCOALA GIMNAZIALĂ SPRIA",311,COLONEŞTI,21891,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 01:24:33",272,268,0,4,0,139,135,0,4,0,131,8,300,161,14,66,47,4
+4,BACĂU,"ŞCOALA PRIMARĂ SATU NOU",310,COLONEŞTI,21891,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 02:32:24",277,272,0,5,0,144,139,0,5,0,138,6,300,156,10,74,43,11

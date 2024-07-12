@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"ALIANȚA PENTRU UNIREA ROMÂNILOR-voturi","PARTIDUL NAȚIONAL LIBERAL-voturi","PARTIDUL SOCIAL DEMOCRAT-voturi","PARTIDUL ALTERNATIVA DREAPTĂ-voturi"
+13,CLUJ,"CAMINUL CULTURAL",607,SĂCUIEU,59283,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 02:32:24",193,185,1,5,2,129,122,0,5,2,120,9,208,79,43,54,23,0
+13,CLUJ,"CĂMINUL CULTURAL",605,SĂCUIEU,59283,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 03:19:23",462,455,0,5,2,298,291,0,5,2,284,14,504,206,155,99,29,1
+13,CLUJ,"CĂMINUL CULTURAL",606,SĂCUIEU,59283,3,PART,PRCNCT,CL,CL_SV,"2024-06-10 08:36:38",486,477,0,7,2,364,355,0,7,2,342,22,500,136,37,238,45,22

@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"LAMBU SORIN-PARTIDUL SOCIAL DEMOCRAT-voturi","TĂTARU MARIAN-PARTIDUL NAȚIONAL LIBERAL-voturi"
+20,GORJ,"GRĂDINIȚA GURA ȘUȘIȚEI",230,IONEŞTI,80560,1,PART,PRCNCT,P,P_SV,"2024-06-10 06:24:57",517,475,0,21,21,375,333,0,21,21,367,8,529,154,245,122
+20,GORJ,"ȘCOALA GIMNAZIALĂ IONEȘTI",229,IONEŞTI,80560,1,PART,PRCNCT,P,P_SV,"2024-06-10 06:40:04",961,899,0,39,23,706,644,0,39,23,689,14,1000,294,550,139
+20,GORJ,"ȘCOALA PRIMARĂ ILIEȘTI",231,IONEŞTI,80560,1,PART,PRCNCT,P,P_SV,"2024-06-10 08:08:49",452,424,0,9,19,347,319,0,9,19,321,7,500,172,252,69

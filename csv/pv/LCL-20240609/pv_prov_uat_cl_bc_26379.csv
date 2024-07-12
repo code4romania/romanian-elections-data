@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"ALIANȚA PENTRU UNIREA ROMÂNILOR-voturi","PARTIDUL SOCIAL DEMOCRAT-voturi","PARTIDUL NAȚIONAL LIBERAL-voturi"
+4,BACĂU,"CĂMINUL CULTURAL CIUMAŞI",401,ITEŞTI,26379,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 01:49:13",146,137,0,5,4,92,83,0,5,4,90,2,204,112,39,7,44
+4,BACĂU,"CĂMINUL CULTURAL ITEŞTI",400,ITEŞTI,26379,1,PROV,PRCNCT,CL,CL_SV,"2024-06-10 04:29:48",746,713,0,19,14,458,425,0,19,14,438,20,708,250,113,41,284
+4,BACĂU,"ŞCOALA DUMBRAVA",402,ITEŞTI,26379,1,PROV,PRCNCT,CL,CL_SV,"2024-06-10 02:50:44",365,356,3,5,1,221,214,1,5,1,213,8,392,171,71,69,73

@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"PARTIDUL SOCIAL DEMOCRAT-voturi","PARTIDUL NAȚIONAL LIBERAL-voturi"
+30,OLT,"CAMIN CULTURAL",151,CEZIENI,126102,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 01:01:09",177,171,0,3,3,115,109,0,3,3,108,7,187,72,71,37
+30,OLT,"CENTRUL SOCIAL",152,CEZIENI,126102,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 03:07:07",253,238,0,11,4,253,238,0,11,4,188,3,277,86,103,85
+30,OLT,"SCOALA GIMANZIALA NICOLAE MARINEANU",150,CEZIENI,126102,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 08:50:03",953,861,2,48,42,734,643,1,48,42,719,12,990,259,380,339

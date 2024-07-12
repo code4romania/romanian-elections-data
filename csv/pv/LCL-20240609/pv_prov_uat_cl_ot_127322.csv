@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"PARTIDUL SOCIAL DEMOCRAT-voturi","PARTIDUL NAȚIONAL LIBERAL-voturi"
+30,OLT,"CAMINUL CULTURAL FLORU",230,ICOANA,127322,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 12:36:30",356,336,0,16,4,275,255,0,16,4,264,11,423,148,139,125
+30,OLT,"SCOALA GIMNAZIALA ICOANA",229,ICOANA,127322,1,PROV,PRCNCT,CL,CL_SV,"2024-06-10 06:38:11",527,487,1,30,9,379,339,1,30,9,366,12,588,203,152,214
+30,OLT,"SCOALA GIMNAZIALA URSOAIA",231,ICOANA,127322,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 05:09:26",512,471,0,17,24,404,363,0,17,24,392,12,598,194,85,307

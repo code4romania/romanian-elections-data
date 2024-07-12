@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"PARTIDUL SOCIAL DEMOCRAT-voturi","PARTIDUL NAȚIONAL LIBERAL-voturi","UNIUNEA SALVAȚI ROMÂNIA-voturi"
+30,OLT,GRADINITA,335,"TIA MARE",129460,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 05:02:13",1207,1192,0,7,8,763,748,0,7,8,733,30,1310,547,454,47,232
+30,OLT,GRADINITA,337,"TIA MARE",129460,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 04:30:05",1195,1187,0,0,8,681,673,0,0,8,651,30,1307,626,503,29,119
+30,OLT,"SCOALA GIMNAZIALA",336,"TIA MARE",129460,2,PART,PRCNCT,CL,CL_SV,"2024-06-10 07:11:32",973,961,1,0,11,636,625,0,0,11,625,11,1070,434,488,29,108

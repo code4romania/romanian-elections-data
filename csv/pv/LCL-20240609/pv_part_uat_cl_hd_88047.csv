@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"PARTIDUL NAȚIONAL LIBERAL-voturi","PARTIDUL SOCIAL DEMOCRAT-voturi","UNIUNEA DEMOCRATĂ MAGHIARĂ DIN ROMÂNIA-voturi","ALIANȚA PENTRU UNIREA ROMÂNILOR-voturi","PARTIDUL S.O.S. ROMÂNIA-voturi"
+22,HUNEDOARA,"CĂMINUL CULTURAL BĂCIA",270,BĂCIA,88047,2,PART,PRCNCT,CL,CL_SV,"2024-06-10 07:01:31",856,843,1,11,1,525,513,0,11,1,505,19,925,401,55,281,110,45,14
+22,HUNEDOARA,"ŞCOALA PRIMARĂ TÂMPA",271,BĂCIA,88047,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 02:44:50",659,652,0,7,0,432,425,0,7,0,423,9,715,283,33,297,14,36,43
+22,HUNEDOARA,"ŞCOALA PRIMARĂ TOTIA",272,BĂCIA,88047,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 00:38:36",96,89,0,7,0,55,48,0,7,0,52,3,100,45,3,40,2,6,1

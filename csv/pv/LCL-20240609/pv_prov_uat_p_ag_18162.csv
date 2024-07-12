@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"TRÎNCĂ CORNEL-PARTIDUL SOCIAL DEMOCRAT-voturi","IORDĂCHIŢĂ GHEORGHE-PARTIDUL NAȚIONAL LIBERAL-voturi","NICULA MARIAN-ALIANȚA DREAPTA UNITĂ USR - PMP - FORȚA DREPTEI-voturi"
+3,ARGEŞ,"ŞCOALA POPEŞTI",436,POPEŞTI,18162,1,PROV,PRCNCT,P,P_SV,"2024-06-10 05:59:05",423,411,0,12,0,264,252,0,12,0,258,6,454,190,180,63,15
+3,ARGEŞ,"ŞCOALA PURCĂRENI",437,POPEŞTI,18162,1,PART,PRCNCT,P,P_SV,"2024-06-10 03:34:05",537,533,0,4,0,340,336,0,4,0,324,16,580,240,219,97,8
+3,ARGEŞ,"ŞCOALA SLOBOZIA",438,POPEŞTI,18162,1,PROV,PRCNCT,P,P_SV,"2024-06-10 06:00:07",501,493,0,8,0,283,275,0,8,0,270,13,538,255,169,66,35

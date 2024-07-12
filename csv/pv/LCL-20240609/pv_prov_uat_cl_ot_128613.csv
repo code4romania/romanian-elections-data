@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"PARTIDUL SOCIAL DEMOCRAT-voturi","PARTIDUL NAȚIONAL LIBERAL-voturi","ALIANȚA PENTRU UNIREA ROMÂNILOR-voturi"
+30,OLT,"GRĂDINIŢA CU PROGRAM NORMAL PLĂVICENI",301,SCĂRIŞOARA,128613,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 05:01:57",527,519,0,6,2,256,248,0,6,2,238,18,572,316,142,82,14
+30,OLT,"ŞCOALA GIMNAZIALĂ SCĂRIŞOARA",299,SCĂRIŞOARA,128613,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 04:52:08",899,895,0,4,0,498,494,0,4,0,450,48,985,487,53,387,10
+30,OLT,"ŞCOALA GIMNAZIALĂ SCĂRIŞOARA",300,SCĂRIŞOARA,128613,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 04:36:35",894,885,0,6,3,523,514,0,6,3,495,28,975,452,73,403,19

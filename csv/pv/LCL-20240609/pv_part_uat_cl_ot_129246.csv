@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"PARTIDUL SOCIAL DEMOCRAT-voturi","ALIANȚA PENTRU UNIREA ROMÂNILOR-voturi","PARTIDUL NAȚIONAL LIBERAL-voturi"
+30,OLT,"GRĂDINIŢA ŞERBĂNEŞTII DE SUS",326,ŞERBĂNEŞTI,129246,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 05:25:36",613,591,1,17,4,367,346,0,17,4,346,21,674,307,206,58,82
+30,OLT,"ŞCOALA DUMITRU POPOVICI",325,ŞERBĂNEŞTI,129246,2,PART,PRCNCT,CL,CL_SV,"2024-06-10 11:20:38",806,786,0,13,7,528,508,0,13,7,476,32,896,368,257,54,165
+30,OLT,"ŞCOALA DUMITRU POPOVICI",324,ŞERBĂNEŞTI,129246,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 07:17:32",820,784,1,16,19,558,522,1,16,19,532,26,890,332,296,78,158

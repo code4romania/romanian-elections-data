@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"PARTIDUL NAȚIONAL LIBERAL-voturi","ALIANȚA PENTRU UNIREA ROMÂNILOR-voturi","PARTIDUL SOCIAL DEMOCRAT-voturi","FORȚA DREPTEI-voturi","PARTIDUL UMANIST SOCIAL LIBERAL-voturi"
+1,ALBA,"FOSTUL SEDIU CAP",360,"ROŞIA DE SECAŞ",6930,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 06:02:29",360,340,0,6,14,235,215,0,6,14,231,4,350,115,107,16,84,14,10
+1,ALBA,"PRIMĂRIA ROŞIA DE SECAŞ",359,"ROŞIA DE SECAŞ",6930,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 05:47:02",616,568,3,23,22,409,363,1,23,22,395,12,675,268,130,92,129,7,37
+1,ALBA,"ȘCOALA PRIMARĂ UNGUREI",361,"ROŞIA DE SECAŞ",6930,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 03:22:36",300,295,1,2,2,176,172,0,2,2,167,9,300,124,47,12,73,4,31

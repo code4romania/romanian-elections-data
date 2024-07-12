@@ -1,0 +1,3 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"PURGE IOAN-PARTIDUL SOCIAL DEMOCRAT-voturi","PETROVAN IOAN-PARTIDUL NAȚIONAL LIBERAL-voturi"
+5,BIHOR,"CĂMIN CULTURAL BICACI",397,GEPIU,32195,1,PART,PRCNCT,P,P_SV,"2024-06-10 04:20:52",555,506,3,34,12,335,287,2,34,12,326,9,565,230,263,63
+5,BIHOR,"CĂMIN CULTURAL GEPIU",396,GEPIU,32195,1,PROV,PRCNCT,P,P_SV,"2024-06-10 05:22:12",1312,1110,5,148,49,975,775,3,148,49,948,27,1262,287,811,137

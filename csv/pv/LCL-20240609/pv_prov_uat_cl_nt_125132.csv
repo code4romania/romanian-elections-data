@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"PARTIDUL SOCIAL DEMOCRAT-voturi","ALIANȚA PENTRU UNIREA ROMÂNILOR-voturi","PARTIDUL NAȚIONAL LIBERAL-voturi"
+29,NEAMŢ,"SCOALA GIMNAZIALA",259,DRĂGĂNEŞTI,125132,1,PROV,PRCNCT,CL,CL_SV,"2024-06-10 02:51:18",564,547,1,11,5,343,327,0,11,5,309,17,591,265,77,42,190
+29,NEAMŢ,"SCOALA PRIMARA",261,DRĂGĂNEŞTI,125132,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 02:16:30",398,387,1,10,0,221,211,0,10,0,214,7,384,163,60,14,140
+29,NEAMŢ,"SCOALA PRIMARA",260,DRĂGĂNEŞTI,125132,1,PROV,PRCNCT,CL,CL_SV,"2024-06-10 02:14:23",297,290,0,6,1,188,181,0,6,1,165,23,384,196,27,37,101

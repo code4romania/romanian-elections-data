@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"POTOR IOAN-ALIANȚA PENTRU UNIREA ROMÂNILOR-voturi","MORAR VASILE-PARTIDUL NAȚIONAL LIBERAL-voturi"
+28,MUREŞ,"CĂMIN CULTURAL BORD",334,CUCERDEA,116395,1,PART,PRCNCT,P,P_SV,"2024-06-10 01:27:39",102,94,0,4,4,68,60,0,4,4,67,1,111,43,8,59
+28,MUREŞ,"PRIMĂRIA COMUNEI CUCERDEA",333,CUCERDEA,116395,2,PART,PRCNCT,P,P_SV,"2024-06-10 03:49:27",592,540,1,16,35,334,283,0,16,35,322,12,590,256,31,291
+28,MUREŞ,"ȘCOALA GIMNAZIALĂ ȘEULIA DE MUREȘ",335,CUCERDEA,116395,1,PART,PRCNCT,P,P_SV,"2024-06-10 01:40:08",468,446,1,4,17,241,220,0,4,17,222,19,490,249,32,190

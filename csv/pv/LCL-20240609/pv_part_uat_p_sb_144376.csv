@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"MODOI LIVIU-PARTIDUL NAȚIONAL LIBERAL-voturi","BRAGA ALIN-DĂNUŢ-PARTIDUL SOCIAL DEMOCRAT-voturi"
+34,SIBIU,"FOSTA ŞCOALĂ ŢELINE",257,BRĂDENI,144376,2,PART,PRCNCT,P,P_SV,"2024-06-10 06:04:15",119,93,1,25,0,87,62,0,25,0,85,2,100,13,60,25
+34,SIBIU,"SALA MARE FOSTĂ PRIMĂRIE",256,BRĂDENI,144376,2,PART,PRCNCT,P,P_SV,"2024-06-10 11:39:10",416,389,0,23,4,249,222,0,23,4,238,11,430,181,138,100
+34,SIBIU,"SALA MARE-PRIMĂRIE",255,BRĂDENI,144376,1,PART,PRCNCT,P,P_SV,"2024-06-10 12:58:43",825,776,2,45,2,498,450,1,45,2,490,8,844,346,243,247

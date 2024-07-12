@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"PARTIDUL NAȚIONAL LIBERAL-voturi","PARTIDUL SOCIAL DEMOCRAT-voturi"
+3,ARGEŞ,"CĂMIN CULTURAL SBOGHIŢEŞTI",414,NUCŞOARA,17771,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 06:59:47",310,297,0,2,11,237,224,0,2,11,222,15,344,107,84,138
+3,ARGEŞ,"CĂMIN CULTURAL SLATINA",415,NUCŞOARA,17771,2,PART,PRCNCT,CL,CL_SV,"2024-06-10 07:11:11",431,417,0,5,9,293,279,0,5,9,290,3,458,165,34,256
+3,ARGEŞ,"CAMINUL CULTURAL NUCSOARA",413,NUCŞOARA,17771,2,PART,PRCNCT,CL,CL_SV,"2024-06-10 08:05:13",340,316,0,8,16,262,238,0,8,16,257,5,364,102,42,215

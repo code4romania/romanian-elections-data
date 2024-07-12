@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"PARTIDUL SOCIAL DEMOCRAT-voturi","PARTIDUL NAȚIONAL LIBERAL-voturi","UNIUNEA DEMOCRATĂ MAGHIARĂ DIN ROMÂNIA-voturi"
+32,"SATU MARE","GRĂDINIŢA SUDURĂU",283,SANTĂU,138734,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 00:32:21",160,151,1,7,1,92,83,1,7,1,88,4,190,98,2,69,17
+32,"SATU MARE","SCOALA GIMNAZIALA SANTAU",281,SANTĂU,138734,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 05:33:40",1390,1350,0,3,37,865,825,0,3,37,849,16,1500,635,50,600,199
+32,"SATU MARE","SC. PRIM. CHEREUŞA",282,SANTĂU,138734,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 01:47:35",470,450,1,5,14,307,288,0,5,14,296,11,500,193,24,236,36

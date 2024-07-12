@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"UNIUNEA SALVAȚI ROMÂNIA-voturi","PARTIDUL SOCIAL DEMOCRAT-voturi","UNIUNEA DEMOCRATĂ MAGHIARĂ DIN ROMÂNIA-voturi","ALIANȚA PENTRU UNIREA ROMÂNILOR-voturi","PARTIDUL NAȚIONAL LIBERAL-voturi"
+4,BACĂU,"PRIMĂRIA GĂICEANA",352,GĂICEANA,22665,2,PART,PRCNCT,CL,CL_SV,"2024-06-10 10:28:42",723,704,0,9,10,444,425,0,9,10,427,17,800,356,9,123,60,14,221
+4,BACĂU,"ŞCOALA ARINI",353,GĂICEANA,22665,2,PART,PRCNCT,CL,CL_SV,"2024-06-10 07:20:19",958,945,3,4,6,535,525,0,4,6,498,37,1000,465,9,53,376,6,54
+4,BACĂU,"ŞCOALA HUŢU",354,GĂICEANA,22665,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 03:35:54",452,445,0,4,3,302,295,0,4,3,289,13,500,198,22,143,18,6,100

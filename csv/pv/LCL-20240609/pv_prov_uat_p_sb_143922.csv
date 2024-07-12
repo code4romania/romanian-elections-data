@@ -1,0 +1,3 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"BOZAN NICOLAE-FLORIN-PARTIDUL NAȚIONAL LIBERAL-voturi","BARBU IOAN-FLORIN-PARTIDUL SOCIAL DEMOCRAT-voturi","GASTONE VALENTIN-VASILE-ALIANȚA PENTRU UNIREA ROMÂNILOR-voturi"
+34,SIBIU,"CĂMINUL CULTURAL SÂNGĂTIN",226,"APOLDU DE JOS",143922,1,PART,PRCNCT,P,P_SV,"2024-06-10 00:49:06",231,217,4,10,0,156,146,0,10,0,151,5,237,81,56,91,4
+34,SIBIU,"ȘCOALA GIMNAZIALĂ APOLDU DE JOS",225,"APOLDU DE JOS",143922,1,PROV,PRCNCT,P,P_SV,"2024-06-10 06:30:57",830,806,2,15,7,531,509,0,15,7,522,9,900,369,120,383,19

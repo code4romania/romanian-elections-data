@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"TOTH IOAN-PARTIDUL SOCIAL DEMOCRAT-voturi","MUREŞAN GABRIEL-STELIAN-PARTIDUL NAȚIONAL LIBERAL-voturi"
+28,MUREŞ,"GRĂDINIŢA CU PROGRAM NORMAL APOLD",231,APOLD,115183,1,PROV,PRCNCT,P,P_SV,"2024-06-10 05:09:55",863,856,2,0,5,420,413,2,0,5,406,14,947,527,18,388
+28,MUREŞ,"ŞCOALA GIMNAZIALĂ ŞAEŞ",233,APOLD,115183,1,PROV,PRCNCT,P,P_SV,"2024-06-10 07:02:06",1129,1117,0,4,8,439,427,0,4,8,426,13,1223,784,87,339
+28,MUREŞ,"ŞCOALA PRIMARĂ DAIA",232,APOLD,115183,1,PART,PRCNCT,P,P_SV,"2024-06-10 02:55:53",547,546,1,0,0,253,252,1,0,0,242,11,610,357,15,227

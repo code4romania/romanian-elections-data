@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"UNIUNEA SALVAȚI ROMÂNIA-voturi","PARTIDUL NAȚIONAL LIBERAL-voturi","PARTIDUL SOCIAL DEMOCRAT-voturi"
+19,GIURGIU,"CASA DE CULTURĂ PUTINEIU",190,PUTINEIU,104715,1,PROV,PRCNCT,CL,CL_SV,"2024-06-10 09:54:42",1011,900,0,98,13,814,703,0,98,13,802,12,990,176,5,559,238
+19,GIURGIU,"ŞCOALA HODIVOAIA",191,PUTINEIU,104715,1,PROV,PRCNCT,CL,CL_SV,"2024-06-10 07:49:58",349,306,0,40,3,278,235,0,40,3,271,7,330,52,7,106,158
+19,GIURGIU,"ŞCOALA VIERU",192,PUTINEIU,104715,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 08:35:46",588,531,0,53,4,437,380,0,53,4,416,21,572,135,12,244,160

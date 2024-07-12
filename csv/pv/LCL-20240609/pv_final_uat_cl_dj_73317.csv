@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"PARTIDUL NAȚIONAL LIBERAL-voturi","UNIUNEA SALVAȚI ROMÂNIA-voturi","PARTIDUL SOCIAL DEMOCRAT-voturi"
+17,DOLJ,"ȘCOALA GENERALĂ NR. 2 MÎRȘANI",402,MÂRŞANI,73317,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 07:22:50",1424,1356,0,12,56,906,838,0,12,56,885,21,1378,472,185,71,629
+17,DOLJ,"ȘCOALA GENERALĂ NR. 3 MÎRȘANI",404,MÂRŞANI,73317,2,PART,PRCNCT,CL,CL_SV,"2024-06-10 07:24:42",1091,1013,0,17,61,725,649,0,17,59,689,36,1200,475,209,30,450
+17,DOLJ,"ȘCOALA GIMNAZIALĂ NR. 1 MÂRȘANI",403,MÂRŞANI,73317,3,PART,PRCNCT,CL,CL_SV,"2024-06-10 09:09:11",1048,997,1,15,35,680,629,1,15,35,642,38,1200,520,117,37,488

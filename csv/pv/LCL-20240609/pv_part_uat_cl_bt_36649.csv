@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"PARTIDUL NAȚIONAL LIBERAL-voturi","PARTIDUL SOCIAL DEMOCRAT-voturi"
+7,BOTOŞANI,"CAMINUL CULTURAL CORDARENI",184,CORDĂRENI,36649,2,PART,PRCNCT,CL,CL_SV,"2024-06-10 04:40:15",706,674,1,4,27,413,382,0,4,27,402,11,750,337,67,335
+7,BOTOŞANI,"SCOALA GRIVITA",185,CORDĂRENI,36649,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 01:57:37",380,366,0,5,9,219,205,0,5,9,208,11,400,181,35,173
+7,BOTOŞANI,"SCOALA SLOBOZIA",186,CORDĂRENI,36649,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 02:51:59",258,249,0,0,9,142,133,0,0,9,136,6,314,172,20,116

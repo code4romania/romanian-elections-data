@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"PARTIDUL NAȚIONAL LIBERAL-voturi","ALIANȚA PENTRU UNIREA ROMÂNILOR-voturi","PARTIDUL SOCIAL DEMOCRAT-voturi","ARDELEANU GHEORGHE-voturi"
+4,BACĂU,"GRĂDINIŢA CURIŢA",295,CAŞIN,21720,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 06:09:45",597,591,0,3,3,373,367,0,3,3,364,9,700,327,148,26,184,6
+4,BACĂU,"ŞCOALA GIMNAZIALĂ N.PÂSLARU CAŞIN",294,CAŞIN,21720,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 06:43:36",1392,1377,4,6,5,691,678,2,6,5,652,39,1500,809,216,47,368,21
+4,BACĂU,"ŞCOALA GIMNAZIALĂ N.PÂSLARU CAŞIN",293,CAŞIN,21720,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 08:00:05",1427,1417,1,4,5,788,779,0,4,5,753,35,1500,712,220,89,416,28

@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"ALIANȚA PENTRU UNIREA ROMÂNILOR-voturi","UNIUNEA DEMOCRATĂ MAGHIARĂ DIN ROMÂNIA-voturi","ALIANȚA ELECTORALĂ PSD PNL-voturi","FORȚA DREPTEI-voturi","PARTIDUL MIȘCAREA POPULARĂ-voturi"
+32,"SATU MARE","CAMIN CULTURAL",172,CEHAL,137363,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 04:23:40",486,473,2,7,4,336,323,2,7,4,322,14,501,165,10,198,52,3,59
+32,"SATU MARE","CLADIRE PRIMARIE",174,CEHAL,137363,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 01:15:38",175,161,0,8,6,113,99,0,8,6,104,9,264,151,5,4,76,16,3
+32,"SATU MARE","SCOALA CEHAL",173,CEHAL,137363,3,PART,PRCNCT,CL,CL_SV,"2024-06-10 08:52:55",625,558,7,15,45,451,388,5,15,43,437,14,561,110,19,4,286,93,35

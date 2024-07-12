@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"PARTIDUL NAȚIONAL LIBERAL-voturi","PARTIDUL SOCIAL DEMOCRAT-voturi","FORȚA DREPTEI-voturi"
+30,OLT,"CĂMINUL CULTURAL ULMI",249,MILCOV,127563,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 04:42:45",551,504,1,26,20,422,376,0,26,20,406,16,603,181,191,192,23
+30,OLT,"ŞCOALA GENERALĂ",248,MILCOV,127563,2,PART,PRCNCT,CL,CL_SV,"2024-06-11 16:56:25",251,207,0,39,5,205,161,0,39,5,195,6,235,34,19,172,4
+30,OLT,"ŞCOALA GENERALĂ CU CLASELE I-VIII",247,MILCOV,127563,2,PART,PRCNCT,CL,CL_SV,"2024-06-11 16:41:06",550,528,1,17,4,344,322,1,17,4,331,13,587,243,156,161,14

@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"BENEDEKFI CSABA-UNIUNEA DEMOCRATĂ MAGHIARĂ DIN ROMÂNIA-voturi"
+28,MUREŞ,"CĂMINUL CULTURAL BERENI",279,BERENI,120511,1,PART,PRCNCT,P,P_SV,"2024-06-10 00:42:48",449,427,0,0,22,232,210,0,0,22,214,18,490,258,214
+28,MUREŞ,"CĂMINUL CULTURAL EREMIENI",280,BERENI,120511,1,PROV,PRCNCT,P,P_SV,"2024-06-09 23:57:27",198,191,0,0,7,134,127,0,0,7,131,3,220,86,131
+28,MUREŞ,"ȘCOALA GIMNAZIALĂ MĂRCULENI",281,BERENI,120511,1,PART,PRCNCT,P,P_SV,"2024-06-10 00:32:03",334,305,1,0,28,195,166,1,0,28,192,3,370,175,192

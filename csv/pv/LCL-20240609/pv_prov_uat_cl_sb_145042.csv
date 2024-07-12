@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"PARTIDUL SOCIAL DEMOCRAT-voturi","PARTIDUL NAȚIONAL LIBERAL-voturi","ALIANȚA PENTRU UNIREA ROMÂNILOR-voturi","ALIANȚA DREAPTA UNITĂ USR - PMP - FORȚA DREPTEI-voturi"
+34,SIBIU,"PRIMĂRIA COMUNEI MIHĂILENI",303,MIHĂILENI,145042,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 01:45:40",241,231,0,4,6,171,161,0,4,6,163,8,260,89,82,10,21,50
+34,SIBIU,"ȘCOALA PRIMARĂ METIȘ - CORP NOU",304,MIHĂILENI,145042,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 02:55:53",251,248,1,2,0,125,122,1,2,0,119,6,245,120,39,8,9,63
+34,SIBIU,"ȘCOALA PRIMARĂ RĂVĂȘEL",305,MIHĂILENI,145042,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 03:01:36",274,263,0,4,7,166,155,0,4,7,139,27,320,154,36,21,4,78

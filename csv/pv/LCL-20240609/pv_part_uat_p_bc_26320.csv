@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"ARGATU IRINA-PARTIDUL SOCIAL DEMOCRAT-voturi","LAZĂR VASILE-DANIEL-UNIUNEA SALVAȚI ROMÂNIA-voturi","HONEA RELU-PARTIDUL NAȚIONAL LIBERAL-voturi"
+4,BACĂU,"SCOALA NR. 1 SĂRATA",564,SĂRATA,26320,2,PART,PRCNCT,P,P_SV,"2024-06-10 06:41:50",652,647,1,4,0,293,288,1,4,0,286,7,700,407,194,14,78
+4,BACĂU,"SCOALA NR. 2 SĂRATA",565,SĂRATA,26320,2,PART,PRCNCT,P,P_SV,"2024-06-10 08:33:50",901,891,0,2,8,471,461,0,2,8,453,14,1006,539,280,31,142
+4,BACĂU,"SCOALA NR. 3 SĂRATA",566,SĂRATA,26320,2,PART,PRCNCT,P,P_SV,"2024-06-10 06:15:52",376,364,0,7,5,196,184,0,7,5,192,4,400,204,147,3,42

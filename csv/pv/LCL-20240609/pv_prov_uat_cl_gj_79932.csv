@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"PARTIDUL SOCIAL DEMOCRAT-voturi","ALIANȚA PENTRU UNIREA ROMÂNILOR-voturi","PARTIDUL NAȚIONAL LIBERAL-voturi","ALIANȚA DREAPTA UNITĂ USR - PMP-voturi"
+20,GORJ,"CĂMINUL CULTURAL MĂIAG",199,CRUŞEŢ,79932,1,PROV,PRCNCT,CL,CL_SV,"2024-06-10 05:25:07",648,615,0,14,19,387,354,0,14,19,368,19,700,313,290,29,42,7
+20,GORJ,"CĂMINUL CULTURAL SLĂVUȚA",200,CRUŞEŢ,79932,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 03:58:58",515,485,1,22,7,324,294,1,22,7,308,16,501,177,186,14,81,27
+20,GORJ,"ȘCOALA PRIMARĂ CRUȘEȚ",198,CRUŞEŢ,79932,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 07:47:11",1397,1323,2,47,25,888,816,0,47,25,857,31,1500,612,689,81,51,36

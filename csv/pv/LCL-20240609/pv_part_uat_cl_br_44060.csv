@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"PARTIDUL SOCIAL DEMOCRAT-voturi","PARTIDUL NAȚIONAL LIBERAL-voturi","ALIANȚA PENTRU UNIREA ROMÂNILOR-voturi","UNIUNEA SALVAȚI ROMÂNIA-voturi","FORȚA DREPTEI-voturi"
+9,BRĂILA,"ȘCOALA GIMNAZIALĂ CUZA - VODĂ",239,STĂNCUŢA,44060,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 04:20:48",1171,1152,0,7,12,773,754,0,7,12,734,31,1273,508,316,152,243,5,18
+9,BRĂILA,"ȘCOALA GIMNAZIALA STĂNCUȚA",238,STĂNCUŢA,44060,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 04:36:55",1201,1167,3,9,22,842,811,0,9,22,819,23,1250,408,325,389,89,5,11
+9,BRĂILA,"ȘCOALA STANCA",240,STĂNCUŢA,44060,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 02:50:17",349,326,0,18,5,233,210,0,18,5,225,8,400,165,82,83,22,17,21

@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"PARTIDUL NAȚIONAL LIBERAL-voturi","PARTIDUL SOCIAL DEMOCRAT-voturi","ALIANȚA DREAPTA UNITĂ USR - PMP-voturi"
+35,SUCEAVA,"CĂMINUL CULTURAL MILIŞĂUŢI",174,"ORAŞ MILIŞĂUŢI",146931,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 11:20:47",1679,1670,1,5,3,888,880,0,5,3,863,25,1840,952,86,288,489
+35,SUCEAVA,"GRĂDINIȚA CU PROGRAM NORMAL BĂDEUȚI",175,"ORAŞ MILIŞĂUŢI",146931,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 12:32:08",1269,1262,0,4,3,614,607,0,4,3,585,29,1400,786,58,256,271
+35,SUCEAVA,"ȘCOALA GIMNAZIALĂ MILIȘĂUȚI",173,"ORAŞ MILIŞĂUŢI",146931,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 12:26:04",1456,1447,1,3,5,736,728,0,3,5,713,23,1600,864,67,296,350

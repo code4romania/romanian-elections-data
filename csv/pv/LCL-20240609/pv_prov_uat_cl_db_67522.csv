@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"PARTIDUL SOCIAL DEMOCRAT-voturi","PARTIDUL NAȚIONAL LIBERAL-voturi","ALIANȚA PENTRU UNIREA ROMÂNILOR-voturi","ALIANȚA DREAPTA UNITĂ USR - PMP - FORȚA DREPTEI-voturi"
+16,DÂMBOVIŢA,"GRĂDINȚA LĂCULEȚE",252,GLODENI,67522,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 05:18:47",709,708,0,0,1,709,708,0,0,1,408,8,780,364,113,251,16,28
+16,DÂMBOVIŢA,"ȘCOALA ”BUICĂ IONESCU”",251,GLODENI,67522,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 04:24:01",1120,1114,1,1,4,710,705,0,1,4,688,22,1240,530,298,315,19,56
+16,DÂMBOVIŢA,"ȘCOALA ”BUICĂ IONESCU”",250,GLODENI,67522,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 04:25:05",1498,1493,0,2,3,873,868,0,2,3,844,29,1637,764,333,426,25,60

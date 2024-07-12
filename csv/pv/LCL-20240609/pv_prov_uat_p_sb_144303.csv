@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"NISTOR IONUŢ-GHEORGHE-PARTIDUL SOCIAL DEMOCRAT-voturi","MĂRGINEAN MARIUS-PARTIDUL NAȚIONAL LIBERAL-voturi"
+34,SIBIU,"CĂMIN CULTURAL",248,BLĂJEL,144303,1,PART,PRCNCT,P,P_SV,"2024-06-10 05:59:15",1442,1409,6,6,21,859,832,0,6,21,812,47,1580,721,295,517
+34,SIBIU,"FOSTA ŞCOALĂ GENERALĂ",250,BLĂJEL,144303,1,PART,PRCNCT,P,P_SV,"2024-06-09 23:57:27",68,57,1,7,3,47,37,0,7,3,45,2,76,29,29,16
+34,SIBIU,"ŞCOALA GIMNAZIALĂ",249,BLĂJEL,144303,1,PART,PRCNCT,P,P_SV,"2024-06-10 03:28:51",356,343,1,4,8,246,233,1,4,8,240,6,380,134,38,202

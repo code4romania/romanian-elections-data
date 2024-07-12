@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"PARTIDUL SOCIAL DEMOCRAT-voturi","ALIANȚA PENTRU UNIREA ROMÂNILOR-voturi","PARTIDUL NAȚIONAL LIBERAL-voturi"
+17,DOLJ,"CAMIN CULTURAL FÂNTÂNELE",461,RADOVAN,73852,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 01:31:26",95,69,0,19,7,71,45,0,19,7,69,2,100,29,49,7,13
+17,DOLJ,"CAMIN CULTURAL TÂRNAVA",462,RADOVAN,73852,1,PROV,PRCNCT,CL,CL_SV,"2024-06-10 02:13:35",192,152,1,32,7,127,87,1,32,7,124,3,200,73,81,6,37
+17,DOLJ,"ŞCOALA GIMNAZIALA RADOVAN",460,RADOVAN,73852,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 09:07:49",950,840,2,70,38,638,528,2,70,38,592,46,858,220,307,57,228

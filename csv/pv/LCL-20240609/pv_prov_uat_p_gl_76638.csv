@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"TĂBĂCARU VALERICĂ-PARTIDUL NAȚIONAL LIBERAL-voturi","TOFAN DĂNUŢ-PARTIDUL SOCIAL DEMOCRAT-voturi"
+18,GALAŢI,"CĂMINUL CULTURAL JORĂȘTI",331,JORĂŞTI,76638,1,PROV,PRCNCT,P,P_SV,"2024-06-10 06:26:39",840,827,0,6,7,495,482,0,6,7,478,17,903,408,233,245
+18,GALAŢI,"CĂMINUL CULTURAL ZĂRNEȘTI",333,JORĂŞTI,76638,1,PROV,PRCNCT,P,P_SV,"2024-06-10 02:38:02",274,268,0,4,2,168,162,0,4,2,165,3,296,128,93,72
+18,GALAŢI,"SALĂ ÎNTRUNIRI LUNCA",332,JORĂŞTI,76638,1,PART,PRCNCT,P,P_SV,"2024-06-10 01:54:48",186,178,0,8,0,111,103,0,8,0,111,0,195,84,60,51

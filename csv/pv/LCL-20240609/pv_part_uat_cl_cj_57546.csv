@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"PARTIDUL NAȚIONAL LIBERAL-voturi","PARTIDUL SOCIAL DEMOCRAT-voturi","PARTIDUL UMANIST SOCIAL LIBERAL-voturi","FORȚA DREPTEI-voturi"
+13,CLUJ,"CĂMINUL CULTURAL PÎGLIŞA",440,DĂBÂCA,57546,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 02:28:55",87,71,0,16,0,60,44,0,16,0,57,3,78,18,17,30,6,4
+13,CLUJ,"ŞCOALA CU CLASELE I-IV LUNA DE JOS",439,DĂBÂCA,57546,3,PART,PRCNCT,CL,CL_SV,"2024-06-10 07:55:39",576,548,2,17,9,316,289,1,17,9,287,29,608,292,176,77,28,6
+13,CLUJ,"ŞCOALA GIMNAZIALĂ CU CLASELE I-VIII ”GELU ROMÂNUL”",438,DĂBÂCA,57546,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 07:40:56",606,504,1,94,7,439,337,1,94,7,417,22,526,87,197,193,1,26

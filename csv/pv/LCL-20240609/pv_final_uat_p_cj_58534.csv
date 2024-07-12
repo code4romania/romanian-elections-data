@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"GHIC VIOREL-PARTIDUL NAȚIONAL LIBERAL-voturi","ROŞU DAVID-DANIEL-ALIANȚA PENTRU UNIREA ROMÂNILOR-voturi","VESA OCTAVIAN-PARTIDUL SOCIAL DEMOCRAT-voturi"
+13,CLUJ,"CĂMIN CULTURAL RUSEȘTI",538,MĂRIŞEL,58534,1,PART,PRCNCT,P,P_SV,"2024-06-10 01:41:29",112,99,0,12,1,78,65,0,12,1,76,2,110,32,63,4,9
+13,CLUJ,"ŞCOALA GENERALĂ",539,MĂRIŞEL,58534,1,PART,PRCNCT,P,P_SV,"2024-06-10 13:29:26",1018,954,0,35,29,845,783,0,35,27,825,20,1090,245,602,62,161
+13,CLUJ,"ŞCOALA GENERALĂ",540,MĂRIŞEL,58534,1,PART,PRCNCT,P,P_SV,"2024-06-10 03:02:22",147,129,0,16,2,120,102,0,16,2,120,0,145,25,89,3,28

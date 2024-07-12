@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"ALIANȚA PENTRU UNIREA ROMÂNILOR-voturi","PARTIDUL SOCIAL DEMOCRAT-voturi","PARTIDUL NAȚIONAL LIBERAL-voturi","PARTIDUL PRO ROMÂNIA-voturi"
+28,MUREŞ,"GRĂDINIŢA CU PROGRAM NORMAL APOLD",231,APOLD,115183,2,PART,PRCNCT,CL,CL_SV,"2024-06-10 07:20:07",863,856,2,0,5,420,413,2,0,5,393,27,947,527,25,38,318,12
+28,MUREŞ,"ŞCOALA GIMNAZIALĂ ŞAEŞ",233,APOLD,115183,2,PART,PRCNCT,CL,CL_SV,"2024-06-10 11:13:15",1129,1117,0,4,8,439,427,0,4,8,406,33,1218,779,111,81,182,32
+28,MUREŞ,"ŞCOALA PRIMARĂ DAIA",232,APOLD,115183,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 02:55:51",547,546,1,0,0,253,252,1,0,0,237,16,610,357,11,29,194,3

@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"STOICA NICOLAE-PARTIDUL SOCIAL DEMOCRAT-voturi","MIHALCEA VIRGIL-ALIANȚA PENTRU UNIREA ROMÂNILOR-voturi","COTOC BOGDAN-IONUŢ-PARTIDUL NAȚIONAL LIBERAL-voturi"
+10,BUZĂU,"ŞCOALA GIMNAZIALĂ PĂNĂTĂU",302,PĂNĂTĂU,48227,2,PART,PRCNCT,P,P_SV,"2024-06-10 09:21:53",1170,1167,1,1,1,681,678,1,1,1,657,24,1279,598,533,94,30
+10,BUZĂU,"ŞCOALA PRIMARĂ BEGU",303,PĂNĂTĂU,48227,3,PART,PRCNCT,P,P_SV,"2024-06-10 06:18:06",176,168,1,7,0,111,104,0,7,0,107,4,190,79,97,9,1
+10,BUZĂU,"ŞCOALA TEGA",304,PĂNĂTĂU,48227,1,PART,PRCNCT,P,P_SV,"2024-06-10 04:10:09",471,463,0,8,0,290,282,0,8,0,278,12,510,220,237,34,7

@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"ALIANȚA PENTRU UNIREA ROMÂNILOR-voturi","PARTIDUL NAȚIONAL LIBERAL-voturi","PARTIDUL SOCIAL DEMOCRAT-voturi"
+30,OLT,"GRĂDINIȚA GĂNEASA",201,GĂNEASA,127064,2,PART,PRCNCT,CL,CL_SV,"2024-06-10 16:40:03",1520,1460,0,32,28,954,894,0,32,28,895,34,1630,701,75,202,618
+30,OLT,"ȘCOALA GIMNAZIALĂ DRANOVĂȚU",202,GĂNEASA,127064,3,PART,PRCNCT,CL,CL_SV,"2024-06-10 09:50:17",891,830,1,39,21,637,576,1,39,21,619,18,926,289,56,61,502
+30,OLT,"ŞCOALA PRIMARĂ IZVORU",203,GĂNEASA,127064,2,PART,PRCNCT,CL,CL_SV,"2024-06-10 10:57:51",590,560,0,16,14,481,451,0,16,14,457,24,627,146,34,36,387

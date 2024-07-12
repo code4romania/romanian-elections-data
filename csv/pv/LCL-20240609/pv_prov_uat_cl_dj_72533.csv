@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"PARTIDUL SOCIAL DEMOCRAT-voturi","PARTIDUL NAȚIONAL LIBERAL-voturi","FORȚA DREPTEI-voturi","PARTIDUL S.O.S. ROMÂNIA-voturi"
+17,DOLJ,"GRADINITA CURMATURA",367,GIURGIŢA,72533,1,PROV,PRCNCT,CL,CL_SV,"2024-06-10 03:36:30",411,399,1,9,2,260,248,1,9,2,247,13,500,227,134,34,63,16
+17,DOLJ,"GRADINITA PORTARESTI",366,GIURGIŢA,72533,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 05:19:55",954,930,1,23,0,578,555,0,23,0,543,35,1000,422,257,253,20,13
+17,DOLJ,"SCOALA GIMNAZIALA GIURGITA",365,GIURGIŢA,72533,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 03:57:32",951,930,0,18,3,629,608,0,18,3,595,34,985,356,333,194,37,31

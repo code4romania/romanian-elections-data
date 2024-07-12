@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"IGESCU NECULAI-PARTIDUL SOCIAL DEMOCRAT-voturi","POPA MARIUS-IONEL-PARTIDUL NAȚIONAL LIBERAL-voturi","GURIŢĂ VALERICĂ-ALIANȚA PENTRU UNIREA ROMÂNILOR-voturi"
+39,VASLUI,"CĂMINUL CULTURAL BLĂGEŞTI",214,BLĂGEŞTI,162559,1,PART,PRCNCT,P,P_SV,"2024-06-10 06:06:38",753,744,0,3,6,389,380,0,3,6,365,24,800,411,256,28,81
+39,VASLUI,"ŞCOALA PRIMARA IGEŞTI",215,BLĂGEŞTI,162559,1,PART,PRCNCT,P,P_SV,"2024-06-10 03:15:27",180,174,0,6,0,98,92,0,6,0,95,3,200,102,80,0,15
+39,VASLUI,"ŞCOALA PRIMARA SIPENI",216,BLĂGEŞTI,162559,1,PART,PRCNCT,P,P_SV,"2024-06-10 01:13:47",70,54,0,16,0,45,29,0,16,0,40,5,85,40,12,2,26

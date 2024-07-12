@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"UNIUNEA SALVAȚI ROMÂNIA-voturi","PARTIDUL NAȚIONAL LIBERAL-voturi","ALIANȚA PENTRU UNIREA ROMÂNILOR-voturi","PARTIDUL SOCIAL DEMOCRAT-voturi"
+3,ARGEŞ,"ŞCOALA COLŢU",503,UNGHENI,19560,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 05:34:20",556,514,0,42,0,392,350,0,42,0,383,9,571,179,4,12,9,358
+3,ARGEŞ,"ŞCOALA CU CLASELE I-VIII UNGHENI",502,UNGHENI,19560,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 06:40:38",543,525,0,15,3,308,290,0,15,3,290,18,586,278,7,63,38,182
+3,ARGEŞ,"SOCIETATEA AGRICOLA ALBINA",504,UNGHENI,19560,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 07:29:17",1021,990,0,31,0,633,602,0,31,0,610,23,1094,461,9,72,79,450

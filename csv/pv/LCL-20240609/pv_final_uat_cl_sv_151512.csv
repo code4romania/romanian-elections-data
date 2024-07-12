@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"PARTIDUL NAȚIONAL LIBERAL-voturi","PARTIDUL SOCIAL DEMOCRAT-voturi","PARTIDUL UMANIST SOCIAL LIBERAL-voturi"
+35,SUCEAVA,"CĂMINUL CULTURAL HĂNŢEŞTI",346,HĂNŢEŞTI,151512,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 05:31:17",1506,1478,0,4,24,842,814,0,4,24,800,41,1650,809,143,641,16
+35,SUCEAVA,"ȘCOALA PRIMARĂ BEREȘTI",348,HĂNŢEŞTI,151512,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 01:54:15",508,506,0,0,2,262,260,0,0,2,250,12,552,290,39,210,1
+35,SUCEAVA,"ȘCOALA PRIMARĂ NR. 2 HĂNȚEȘTI VALE",347,HĂNŢEŞTI,151512,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 03:59:47",1227,1215,1,2,9,686,675,0,2,9,636,50,1350,664,112,515,9

@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"PARTIDUL SOCIAL DEMOCRAT-voturi","PARTIDUL NAȚIONAL LIBERAL-voturi","ALIANȚA PENTRU UNIREA ROMÂNILOR-voturi"
+13,CLUJ,"CĂMIN CULTURAL RUSEȘTI",538,MĂRIŞEL,58534,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 01:41:29",112,99,0,12,1,78,65,0,12,1,74,4,110,32,10,53,11
+13,CLUJ,"ŞCOALA GENERALĂ",539,MĂRIŞEL,58534,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 13:29:27",1018,954,0,35,29,845,783,0,35,27,823,22,1064,219,184,559,80
+13,CLUJ,"ŞCOALA GENERALĂ",540,MĂRIŞEL,58534,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 03:02:22",147,129,0,16,2,120,102,0,16,2,117,3,145,25,49,65,3

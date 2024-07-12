@@ -1,0 +1,4 @@
+﻿precinct_county_nce,precinct_county_name,precinct_name,precinct_nr,uat_name,uat_siruta,report_version,report_stage_code,report_type_scope_code,report_type_category_code,report_type_code,created_at,a,a1,a2,a3,a4,b,b1,b2,b3,b4,c,d,e,f,"ALIANȚA PENTRU UNIREA ROMÂNILOR-voturi","PARTIDUL SOCIAL DEMOCRAT-voturi","PARTIDUL NAȚIONAL LIBERAL-voturi","PARTIDUL PATRIOȚILOR-voturi"
+1,ALBA,"ŞCOALA GIMNAZIALĂ ”EMIL RACOVIŢĂ” GÎRDA DE SUS",263,"GÂRDA DE SUS",4525,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 05:49:45",751,739,0,5,7,527,515,0,5,7,510,17,813,286,66,228,184,32
+1,ALBA,"ŞCOALA GIMNAZIALĂ GHEŢARI",265,"GÂRDA DE SUS",4525,1,PART,PRCNCT,CL,CL_SV,"2024-06-10 03:44:04",389,377,0,5,7,310,298,0,5,7,299,11,415,105,23,130,132,14
+1,ALBA,"ŞCOALA PRIMARĂ BIHARIA",264,"GÂRDA DE SUS",4525,2,PART,PRCNCT,CL,CL_SV,"2024-06-10 02:55:44",108,103,0,5,0,64,59,0,5,0,60,4,115,51,11,16,12,21
